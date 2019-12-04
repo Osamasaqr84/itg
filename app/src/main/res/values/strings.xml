@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ITG Task </string>
+    <string name="comics">Comics</string>
+    <string name="series">SERIES</string>
+    <string name="related_links">RELATED LINKES</string>
+    <string name="details">Detail</string>
+    <string name="wiki">Wiki</string>
+    <string name="comik">ComokLInk</string>
+    <string name="stories">STORIES</string>
+    <string name="EVENTS">EVENTS</string>
+</resources>
